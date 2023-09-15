@@ -18,7 +18,7 @@ Whether you're interested in web development, mobile app development, machine le
 ## Project Ideas
 
 > [Sample]
-### [Project Name 1](ideas/project-name-1.md) (Beginner)    
+### [Project Name 1](#) (Beginner)    
 
 - Description: A brief description of the project idea, its purpose, and functionality.
 - Features: List of features or components that can be included in the project.
